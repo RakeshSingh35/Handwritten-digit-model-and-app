@@ -41,11 +41,11 @@ pip install tensorflow numpy pandas matplotlib pillow
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/handwritten-digit-recognition.git
+git clone https://github.com/RakeshSingh35/Handwritten-digit-model-and-app.git
 cd handwritten-digit-recognition
 
 ### Run the application:
-python hand_written_app.py
+python Digit_recognition_app.py
 
 ### How to Use
 Launch the application
